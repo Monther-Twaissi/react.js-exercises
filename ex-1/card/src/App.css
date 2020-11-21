@@ -5,7 +5,7 @@ body {
   background-color: #f2f2f2;
 }
 .container {
-  display: flex;
+  display: inline-block;
 }
 .card {
   background-image: url(https://png.pngtree.com/thumb_back/fh260/background/20201009/pngtree-dark-sky-and-clouds-wallpaper-image_404265.jpg);
